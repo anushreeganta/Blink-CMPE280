@@ -1,0 +1,23 @@
+
+
+.navbar-text{
+    color: #db440d !important;
+}
+
+.navbar-search{
+    margin-top: 10px;
+}
+
+.nav-create-tag{
+    margin-top: 20px;
+}
+
+.modal-create-button{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.input-create{
+    width: 50vw;
+}

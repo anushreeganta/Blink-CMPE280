@@ -1,0 +1,47 @@
+.register-box{
+    margin-top: 5vh;
+    background-color: white !important;
+    border-style: solid;
+    border-color: black !important;
+    border-width: 2px !important;
+    border-radius: 3px !important;
+   
+}
+
+.register-inputs{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 30px;
+    row-gap: 3vh;
+}
+
+.register-inputs-next{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 30px;
+    row-gap: 3vh;
+}
+
+.register-input-email{
+    margin-top: 10vh;
+}
+
+.register-input-password{
+    margin-top: 5vh;
+}
+
+.register-button{
+    margin-top: 5vh !important;
+
+}
+
+.register-select-user {
+    margin-top: 5vh !important;
+}
+
+.register-options-user{
+    margin-top: 5vh !important;
+}
+
+
+

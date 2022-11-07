@@ -1,0 +1,30 @@
+.card{
+    cursor: pointer;
+}
+
+.card-answers{
+    margin-left: 2vw !important;
+}
+
+.card-body{
+    margin-left: 2vw !important;
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card-answer-post{
+    width: 67vw;
+}
+
+.card-answer{
+    display: flex;
+}
+
+.card-icon-send{
+    margin-top: 22px !important
+}
+

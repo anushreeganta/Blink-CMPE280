@@ -1,0 +1,45 @@
+.login-box{
+    margin-top: 5vh;
+    background-color: white !important;
+    border-style: solid;
+    border-color: black !important;
+    border-width: 2px !important;
+    border-radius: 3px !important;
+   
+}
+
+.login-inputs{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 30px;
+    row-gap: 10vh;
+}
+
+.login-input-email{
+    margin-top: 10vh;
+}
+
+.login-input-password{
+    margin-top: 5vh;
+}
+
+.login-button{
+    display: flex;
+    justify-content: right;
+
+}
+
+.login-div-error{
+    display: flex;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center;
+    
+}
+
+.login-error{
+    width: 33vw !important;
+   
+  
+}
+

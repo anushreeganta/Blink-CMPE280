@@ -1,0 +1,15 @@
+.home-cards{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(224, 224, 224);
+    height: 75vh;
+}
+
+.home-card{
+    
+    min-width: 70vw !important;
+    padding: 10px !important;
+    
+}
+

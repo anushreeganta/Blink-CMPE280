@@ -1,0 +1,38 @@
+.post-layout{
+    display: grid;
+    grid-template-rows: 1fr;
+    width: 40vw;
+    margin-left: 30vw;
+    margin-top: 1vh;
+    row-gap: 12px;
+
+    
+}
+
+.post-textarea{
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: rgb(224, 224, 224);
+}
+
+.post-create{
+    display: flex;
+    justify-content: right;
+}
+
+.post-background{
+    background-color: rgb(224, 224, 224);
+    height: 74vh !important;
+    padding: 0px;
+    margin: 0px;
+}
+
+.css-1s2u09g-control{
+    background-color: rgb(224, 224, 224) !important;
+    border-width: 2px !important;
+    border-color:black !important;
+}
+
+
+
